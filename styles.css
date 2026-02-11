@@ -1,7 +1,37 @@
+/* This code has a ton of mistakes. We gotta work through this. */
+/* ! Just copy it from my original project lol */
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: red;
+  background-color: white;
+  color: darkgreen;
+  display: flex;
+  margin: 0px;
+  height: 100vh;
+  position: relative;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  position: fixed;
+  justify-content: right;
+  align-items: center;
+}
+
+main {
+}
+
+nav {
+  position: fixed;
+  right: 2%;
+  justify-content: center;
+}
+
+nav div {
+  margin: 4%;
+  padding: 2%;
 }
