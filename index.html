@@ -8,17 +8,59 @@
     <title>Budget Buddy</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body>
+  <body class="budget-buddy-main">
+    <img
+      src="icons/green-graph.png"
+      alt="Green Arrow Graph Up and Right"
+      class="hero"
+    />
     <header>
-      <h1>BUDGET BUDDY</h1>
-      <div><a href="pages/budget.html">Create your Budget!</a></div>
+      <div>
+        <h1 class="budget-buddy">BUDGET BUDDY</h1>
+        <p>
+          <a href="pages/budget.html" class="start-button"
+            >Create Personal Budget</a
+          >
+        </p>
+      </div>
     </header>
-    <nav>
-      <div><a href="pages/calculator.html">Calculator</a></div>
-      <div><a href="pages/learn.html">Learn More</a></div>
-      <div><a href="pages/transaction.html">Buy a Spreadsheet</a></div>
+    <nav class="side-nav">
+      <ul class="nav">
+        <li class="nav-li">
+          <a href="pages/calculator.html" class="nav-link">
+            <span class="nav-text">Finance Calculators</span>
+            <img
+              src="icons/Calculator.webp"
+              alt="Finance Calculator Icon"
+              class="nav-icon"
+            />
+          </a>
+        </li>
+        <li class="nav-li">
+          <a href="pages/learn.html" class="nav-link">
+            <span class="nav-text">Learn More Finance</span>
+            <img
+              src="icons/Learn.webp"
+              alt="Pencil Learn More Icon"
+              class="nav-icon"
+            />
+          </a>
+        </li>
+        <li class="nav-li">
+          <a href="pages/transaction.html" class="nav-link">
+            <span class="nav-text">Budget Spreadsheet</span>
+            <img
+              src="icons/Transaction.webp"
+              alt="Transaction Icon"
+              class="nav-icon"
+            />
+          </a>
+        </li>
+      </ul>
     </nav>
     <main></main>
-    <footer></footer>
+    <footer>
+      <p class="footer">Author: Asher Ruiz | Copyright Reserved</p>
+    </footer>
   </body>
 </html>
