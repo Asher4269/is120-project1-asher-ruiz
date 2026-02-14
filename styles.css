@@ -45,7 +45,7 @@ header {
 .side-nav {
   position: fixed;
   right: 15px;
-  top: 80%;
+  top: 78%;
   transform: translateY(-50%);
   max-height: 90vh;
   z-index: 1000;
@@ -70,8 +70,7 @@ header {
   position: relative;
   display: flex;
   align-items: center;
-  width: 60px;
-  height: 60px;
+  width: 74px;
 }
 
 .nav-icon {
