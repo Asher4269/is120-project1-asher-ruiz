@@ -29,3 +29,8 @@ I also discovered gradients which were super fun to play around with. They made 
 2. It inspired me to play around more with css cards and buttons for purchase (they currently do not do anything, but it's cool to think that one day they might).
 3. In thinking about UI, I was inspired to make a cool gimmick on my index page where my link icons displayed text on hover. It took a youtube video or two, but I ended up figuring out something that looks sleek.
 4. I now have the goal to further my study of javascript so I can make a real, simple web app!
+
+# AI-Usage:
+
+I only used AI to generate my money tree images and walk me through conceptual principles of web-design. While some of the concepts in my page were inspired by AI's guidance (making text transform out of an icon for UI), nothing was ever copy-pasted. I skeptically analyzed the ideas it gave me and either implemented or discarded them based on the problem at hand.
+I also added in Emojis on the transaction page. I know AI likes to use emojis, so please do not let this lead you to believe that I stole a card from AI. This work is my own and I claim it.
