@@ -22,6 +22,7 @@ I also discovered gradients which were super fun to play around with. They made 
    I even tried display: flex; but it ended up being so complicated that I dropped it and settled for position: absolutes in a lot of areas. I recognize this if I hone in on this area of web development, I will improve a lot faster.
 3. The lack of javascript also felt like a big wall. There were deeper things I wanted to do such as a budget page and finance calculators that will have to wait until further on the semester. I also hope to teach myself javascript to at least build out a shallow front-end (something that can hold onto data but nothing as robust as a database, that would be down the road).
 4. Text and Color were also a big gap in my design I feel. I am not the most artistic, so figuring out design and beauty within my web-page pushed me outside of my comfort zone. I would love to study up more on this.
+5. Scroll behaviors never ended up being a big issue, but I felt it was necessary to dive into eliminating the scroll bar and making things a bit more smooth for page transitions.
 
 ### How Project Evolved:
 

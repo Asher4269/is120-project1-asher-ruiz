@@ -296,7 +296,7 @@ header {
 .learn-more-main {
   position: absolute;
   left: 0.5%;
-  height: 68vh;
+  height: 70vh;
   top: 25%;
   width: 86vw;
   background: linear-gradient(
@@ -338,7 +338,7 @@ header {
 .learn-more-nav {
   position: absolute;
   right: 0.5%;
-  height: 68vh;
+  height: 70vh;
   top: 25%;
   width: 12.5vw;
   background: linear-gradient(
@@ -360,7 +360,7 @@ header {
 
 .learn-more-nav ul li {
   padding: 3%;
-  margin: 32% 0%;
+  margin: 25% 0%;
   border-radius: -50px;
   transition: 1.5s ease;
 }
